@@ -7,8 +7,8 @@ public class Testinterface {
 	public static void main(String[] args) {
 	
 	driver = new ChromeDriver();	
-	driver = new FirefoxDriver();	
-	driver = new InternetExploereDriver();
+	/*driver = new FirefoxDriver();	
+	driver = new InternetExploereDriver();*/
 	
 	driver = new ChromeDriver();	
 
