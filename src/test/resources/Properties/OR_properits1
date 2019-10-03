@@ -1,0 +1,9 @@
+
+Xfirstname= //input[@name='UserFirstName']
+XLastname= //input[@name='UserLastName']
+XEmailid =//input[@name='UserEmail']
+Xtital=//input[@name='UserTitle']
+Xphone=//input[@name='UserPhone']
+XCompany=//*[@name='CompanyName']
+XEmploys=//*[@name='CompanyEmployees']
+Xcheckbox=//*[@class='checkbox-ui'][1]

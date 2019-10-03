@@ -1,0 +1,11 @@
+
+# all Xpath
+XsingBtn = //*[@class='login']
+XEmailAdd = //input[@id='email_create']
+XCreatActBtn = //*[@id='SubmitCreate']
+Xtitle= //*[@id='id_gender1']
+Xfirstname= //*[@id='customer_firstname']
+XLastname= //*[@id='customer_lastname']
+Xpwd= //*[@id='passwd']
+
+s

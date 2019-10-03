@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Sign in has been clicked]]>
+    </line>
+    <line>
+      <![CDATA[Email_ID has been Entered]]>
+    </line>
+    <line>
+      <![CDATA[Create an account button has been clicked]]>
+    </line>
+    <line>
+      <![CDATA[Title has been clicked]]>
+    </line>
+    <line>
+      <![CDATA[First_Name has been Entered]]>
+    </line>
+    <line>
+      <![CDATA[Last_Name has been Entered]]>
+    </line>
+    <line>
+      <![CDATA[Password has been Entered]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29284" started-at="2019-10-01T06:03:23Z" finished-at="2019-10-01T06:03:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29284" started-at="2019-10-01T06:03:23Z" finished-at="2019-10-01T06:03:52Z">
+      <class name="TestCase.TC001_Create_an_Account">
+        <test-method status="PASS" signature="LoadingFiles()[pri:0, instance:TestCase.TC001_Create_an_Account@70be0a2b]" name="LoadingFiles" is-config="true" duration-ms="188" started-at="2019-10-01T11:33:22Z" finished-at="2019-10-01T11:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadingFiles -->
+        <test-method status="PASS" signature="TC001_Create_An_Account(java.util.Hashtable)[pri:0, instance:TestCase.TC001_Create_an_Account@70be0a2b]" name="TC001_Create_An_Account" duration-ms="24265" started-at="2019-10-01T11:33:23Z" data-provider="Data_Collection" finished-at="2019-10-01T11:33:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{tital=testing, Phone_Numer=9850658748, Iteration=1, Last_Name=Ganjare, Address=pune, Email_ID=test.test1234@gmail.com, Password=Rahul#124, company=qsp, First_Name=Rahul}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Sign in has been clicked]]>
+            </line>
+            <line>
+              <![CDATA[Email_ID has been Entered]]>
+            </line>
+            <line>
+              <![CDATA[Create an account button has been clicked]]>
+            </line>
+            <line>
+              <![CDATA[Title has been clicked]]>
+            </line>
+            <line>
+              <![CDATA[First_Name has been Entered]]>
+            </line>
+            <line>
+              <![CDATA[Last_Name has been Entered]]>
+            </line>
+            <line>
+              <![CDATA[Password has been Entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC001_Create_An_Account -->
+        <test-method status="PASS" signature="isSkip()[pri:0, instance:TestCase.TC001_Create_an_Account@70be0a2b]" name="isSkip" is-config="true" duration-ms="0" started-at="2019-10-01T11:33:23Z" finished-at="2019-10-01T11:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSkip -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCase.TC001_Create_an_Account@70be0a2b]" name="closeBrowser" is-config="true" duration-ms="5001" started-at="2019-10-01T11:33:47Z" finished-at="2019-10-01T11:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="writeIntoExtentReport()[pri:0, instance:TestCase.TC001_Create_an_Account@70be0a2b]" name="writeIntoExtentReport" is-config="true" duration-ms="325" started-at="2019-10-01T11:33:52Z" finished-at="2019-10-01T11:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeIntoExtentReport -->
+      </class> <!-- TestCase.TC001_Create_an_Account -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
